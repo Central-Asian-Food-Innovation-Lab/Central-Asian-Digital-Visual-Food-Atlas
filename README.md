@@ -1,4 +1,6 @@
-<img width="367" height="500" alt="Full_Atlas of food portion sizes (w Ramziya)" src="https://github.com/user-attachments/assets/150df278-c826-458c-a088-b989e65bfe55" />
+<div align="center">
+  <img width="367" height="500" alt="Full_Atlas of food portion sizes (w Ramziya)" src="https://github.com/user-attachments/assets/150df278-c826-458c-a088-b989e65bfe55" />
+</div>
 
 
 # Visual-Atlas-of-Central-Asian-Food-Portion-Sizes
