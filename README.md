@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="367" height="500" alt="Full_Atlas of food portion sizes (w Ramziya)" src="https://github.com/user-attachments/assets/150df278-c826-458c-a088-b989e65bfe55" />
+  <img width="662" height="899" alt="Снимок экрана 2025-09-30 в 13 07 46" src="https://github.com/user-attachments/assets/481ad4bd-0912-4068-b4e1-4b64e0674e53" />
 </div>
 
 
