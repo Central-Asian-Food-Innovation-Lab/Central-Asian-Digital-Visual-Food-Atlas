@@ -5,6 +5,8 @@
 
 # Central-Asian-Digital-Visual-Food-Atlas
 
-This Central Asian Digital Visual Food Atlas is designed to support individuals, researchers, and health professionals in accurately estimating food portion sizes using a collection of photographs of food items presented in three distinct portion sizes: small, average, and large. Each food item is carefully photographed alongside precise weight measurements, ensuring that users have a consistent and reliable guide to assess food portions, whether in research settings, dietary counseling, or personal nutrition tracking.
+This book has been compiled to provide information on typical weights and portion sizes of food eaten in Central Asia. 
+
+This Visual Food Atlas is designed to support individuals, researchers, and health professionals in accurately estimating food portion sizes using a collection of photographs of food items presented in three distinct portion sizes: small, average, and large. Each food item is carefully photographed alongside precise weight measurements, ensuring that users have a consistent and reliable guide to assess food portions, whether in research settings, dietary counseling, or personal nutrition tracking.
 
 The atlas is organized into nine sections based on food categories, such as main dishes, soups, meat dishes, salads, snacks, bakery & bread, side dishes, beverages, and desserts. 
